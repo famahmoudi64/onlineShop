@@ -19,20 +19,17 @@ To run this project locally, follow these steps:
  open the project folder: cd online-shop
  open the index.html file in your preferred web browser.”
 
-User Authentication
-To access restricted features and the user dashboard, use the following login credentials:
+User Authentication: 
+To access restricted features and the user dashboard, use the following login credentials: 
 
 Username: mor_2314
 Password: 83r5^_
 
-User Dashboard
+User Dashboard: 
 Click on the "Dashboard" button to access the user dashboard. Note that, currently, the dashboard fetches information for multiple users from the FakeAPI for demonstration purposes. In a real-world scenario, this would be personalized information for the logged-in user.
 
-Logout
+Logout: 
 To end your session, click on the "Logout" button.
 
-Rest API Integration
+Rest API Integration: 
 This project demonstrates the integration of a FakeAPI for dynamic data retrieval, providing a seamless experience for the frontend team. The project emphasizes the importance of REST API usage in modern web development.
-
-
-
